@@ -1,0 +1,51 @@
+
+.container-header{
+    background-color:goldenrod;
+}
+.logo{
+    object-fit: contain;
+}
+.logo:hover{
+    transform:rotate(6deg);
+}
+
+.form-ara-input-text{
+font-size: 12px;
+}
+.sepet-resim-link{
+  text-align: right;
+}
+.sepet-resim-urun-fiyat{
+    font-size:12px;
+    
+  }
+  .site-resim{
+      width: 270px;
+      height: 180px;
+      object-fit: contain;
+      text-align: right;
+  }
+  .footer-site-resim{
+      width: 50%;
+      text-align: right;
+      object-fit: contain;
+  }
+.form-text{
+    border: solid 2px black;
+    margin: 2px;
+}
+.fiyat-links{
+    list-style-type: none;
+    margin-bottom: 2px;
+}
+.form-text-li{
+    list-style-type: none;
+}
+.sepet-links{
+    border:1px solid black; 
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+    background-color: blanchedalmond;
+    color: black;
+}
